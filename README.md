@@ -2,6 +2,6 @@
 
 ## Preview
 
-[![Resume Preview](https://mjavedali.github.io/my-cv/img/resume.PNG)](https://mjavedali.github.io/profile)
+[![Resume Preview](https://mjavedali.github.io/profile/img/resume.PNG)](https://mjavedali.github.io/profile)
 
 **[View Live Preview](https://mjavedali.github.io/profile)**
